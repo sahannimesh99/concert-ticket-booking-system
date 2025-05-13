@@ -9,7 +9,7 @@ Java , Spring boot , SQL , MVC architecture , AJAX , HTML, Bootstrap , CSS , Mav
    <br/>
 2. `Inject all dependencies required`<br/>
    <br/>
-3. `Build and deploy the project`<br/>
+3. `Build and deploy the project`<br/></br>
 4. `Dump all the databases from the schema`</br>
 <br/>
 

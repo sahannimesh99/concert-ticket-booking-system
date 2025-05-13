@@ -1,0 +1,32 @@
+server:
+  port: 9001
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/concertdb?useSSL=false&useUnicode=yes&characterEncoding=UTF-8&characterSetResults=UTF-8&autoReconnect=true&createDatabaseIfNotExist=true
+    username: root
+    password: root
+  main:
+    allow-bean-definition-overriding: true
+  jpa:
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        show_sql: false
+        format_sql: true
+        dialect: org.hibernate.dialect.MariaDBDialect
+        connection:
+          characterEncoding: utf-8
+          CharSet: utf-8
+          useUnicode: true
+
+# Peer Nodes (custom keys for internal logic)
+peers:
+  node2:
+    host: localhost
+    port: 9002
+  node3:
+    host: localhost
+    port: 9003
+

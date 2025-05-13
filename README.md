@@ -17,4 +17,4 @@ Java , Spring boot , SQL , MVC architecture , AJAX , HTML, Bootstrap , CSS , Mav
 https://pending. will upload here once done !
 
 <br/>
-##### © 2025 Distributed Systems Assignment ~Sahan Nimesha~
+ © 2025 Distributed Systems Assignment ~Sahan Nimesha~

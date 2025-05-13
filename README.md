@@ -1,7 +1,7 @@
 # CONCERT TICKET MANAGEMENT SYSTEM
 
 ### Language & framework stack
-Java , Spring boot , SQL , MVC architecture , AJAX , HTML, Bootstrap , CSS , Maven
+Java  , SQL , MVC architecture , AJAX , HTML, Bootstrap , CSS , Maven
 
 ### Steps to run
 1. `Clone project from git reposiory` <br>
